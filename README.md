@@ -1,2 +1,2 @@
-# first_ml_project
-first ml project
+# first_ml_projects
+first ml projects
